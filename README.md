@@ -15,5 +15,11 @@ _A workshop based on the [Carpentries](https://carpentries.org/) lesson [Program
 
 * Read [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
 
+* [ ] Run a pre-session survey
+* [ ] Learners can acces an R environment 
+    * [ ] Send link to rstudio.cloud project
+    * [ ] Send instructions to setup
+    * [ ] Offer pre-session helpdesk to setup
+
 * Develop a lesson page base like: <https://smithsonianworkshops.github.io/2020-03-04-sms/>
 
