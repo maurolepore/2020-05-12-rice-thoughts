@@ -2,9 +2,11 @@
 
 [![Join the chat at https://gitter.im/2020-05-12-rice/community](https://badges.gitter.im/2020-05-12-rice/community.svg)](https://gitter.im/2020-05-12-rice/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-_A workshop based on <http://swcarpentry.github.io/r-novice-inflammation/>_
+_A workshop based on the lesson [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/>), of [The Carpentries](https://carpentries.org/)_
 
-By [Mauro Lepore](https://github.com/maurolepore) and [Jackson Hoffart](https://github.com/jdhoffa)
+[Mauro Lepore](https://github.com/maurolepore) and [Jackson Hoffart](https://github.com/jdhoffa)
+
+
 
 TODO: 
 
