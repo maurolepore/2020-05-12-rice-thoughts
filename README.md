@@ -9,9 +9,7 @@ _A workshop based on the [Carpentries](https://carpentries.org/) lesson [Program
 
 ## Q&A
 
-[![Join the chat at https://gitter.im/2020-05-12-rice/community](https://badges.gitter.im/2020-05-12-rice/community.svg)](https://gitter.im/2020-05-12-rice/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Or visit <https://gitter.im/2020-05-12-rice/community>
+To aks for help or questions click this badge [![Join the chat at https://gitter.im/2020-05-12-rice/community](https://badges.gitter.im/2020-05-12-rice/community.svg)](https://gitter.im/2020-05-12-rice/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) or go to <https://gitter.im/2020-05-12-rice/community>.
 
 ## TODO: 
 
