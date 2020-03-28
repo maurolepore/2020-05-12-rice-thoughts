@@ -1,4 +1,4 @@
-# 2020-05-12-rice
+# Programming with R
 
 _A workshop based on <http://swcarpentry.github.io/r-novice-inflammation/>_
 
