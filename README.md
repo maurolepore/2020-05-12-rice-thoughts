@@ -1,10 +1,10 @@
 # Programming with R
 
-_A workshop based on the [Carpentries](https://carpentries.org/) lesson [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/>)_
+_A workshop based on the [Carpentries](https://carpentries.org/) lesson [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)_
 
 ## Help and Questions
 
-Optons to consider
+Options to consider
 
 * Use zoom (rise hand or thumbs up/down) to call a helper, maybe breakout to another room to allow remote control and debug.
 * Do challenges in small break out groups so people can help each other and request helpers to join.
