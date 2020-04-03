@@ -21,7 +21,11 @@ Options to consider
 
 ## TODO: 
 
-* Read [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
+* [ ] Read [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
+* [ ] Read [Tips for safer Zoom meetings](https://frameshiftconsulting.com/2020/04/02/tips-for-safer-zoom-meetings/?mc_cid=708bcbba53&mc_eid=2dc049f7f2)
+* [ ] Develop a lesson page base like:
+    * <https://cianwilson.github.io/2020-02-13-rice/>
+    * <https://smithsonianworkshops.github.io/2020-03-04-sms/>
 
 * [ ] Run a pre-session survey
 * [ ] Learners can acces an R environment 
@@ -29,5 +33,4 @@ Options to consider
     * [ ] Send instructions to setup
     * [ ] Offer pre-session helpdesk to setup
 
-* Develop a lesson page base like: <https://smithsonianworkshops.github.io/2020-03-04-sms/>
 
