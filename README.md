@@ -22,8 +22,9 @@ Options to consider
 ## TODO: 
 
 * [ ] Develop a lesson page from the template at <https://github.com/carpentries/workshop-template>
-* [ ] Read [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
-* [ ] Read [Tips for safer Zoom meetings](https://frameshiftconsulting.com/2020/04/02/tips-for-safer-zoom-meetings/?mc_cid=708bcbba53&mc_eid=2dc049f7f2)
+* [X] Read [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
+* [X] Read [Tips for safer Zoom meetings](https://frameshiftconsulting.com/2020/04/02/tips-for-safer-zoom-meetings/?mc_cid=708bcbba53&mc_eid=2dc049f7f2)
+* [X] Attend the workshop [Teaching Inclusive and Engaging Online Classes](https://github.com/2DegreesInvesting/resources/issues/118)
 * [ ] Run a pre-session survey
 * [ ] Learners can acces an R environment 
     * [ ] Send link to rstudio.cloud project
